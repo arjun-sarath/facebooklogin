@@ -1,0 +1,133 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #eaedf5;
+}
+img{
+    
+    height: 140px;
+    width: 300px;
+    margin-left: -28px;
+    margin-top: -60px;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 35px;
+    margin-top: -30px;
+    margin-left: 1px;
+    font-weight: 600;
+ 
+    
+}
+.container1{
+    margin-top: 220px;
+    margin-left: 175px;
+}
+
+.container2{
+    background-color: white;
+    width: 400px;
+    height: 370px;
+    margin-right: 180px;
+    margin-top: -224px;
+    text-align: center;
+    float: right;
+    border-radius: 12px;
+}
+
+.form{
+    float: right;
+    height: 50px;
+    padding: 20px;
+    margin-top: 18px;
+    margin-right: 7px;
+    background-color: white;
+    padding: 16px;
+}
+.form input{
+    width: 320px;
+    margin-left: -95px;
+    padding: 20px;
+    margin-right: -95px;
+    margin-top: 10px;
+    border-radius: 8px;
+    background-color: white;
+}
+button{
+    background-color: #1877f2;
+    color: white;
+    margin-top: 15px;
+    width: 350px;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.text{
+    border-width: 0.05px;
+    border-color: #1877f2;
+}
+
+.btn{
+    color: white;
+    background-color: rgb(15, 196, 15);
+    width: 60%;
+    font-size: 17px;
+}
+
+p{
+    background-color: white;
+    font-size: 14px;
+    color: #1877f2;
+    margin-top: 10px;
+}
+
+a{
+    color: #1877f2;
+    font-size: 13.5px;
+    background-color: white;
+}
+
+footer{
+    height: 145px;
+    float: left;
+    background-color: white;
+    margin-top: 180px;
+    width: 100%;
+}
+
+.txt{
+    margin-left: 10%;
+    color: #737373;
+}
+
+.foot{
+    word-spacing: 8px;
+    background-color: white;
+    color: #385898;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 10%;
+    text-align: justify;
+}
+
+.container3{
+    margin-top: 200px;
+    margin-left: 820px;
+}
+
+h5{
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+a.hover {
+    color: #385898;
+    text-decoration: none;
+}
+
+a.hover:hover {
+    text-decoration: underline;
+}
